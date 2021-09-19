@@ -1,2 +1,11 @@
 print("Hello World")
 print("Welcome")
+i=1
+if(i):
+    print("HI")
+else:
+    print("HELLO")
+if(i==1):
+    print("HOW ARE YOU ?")
+else:
+    print("GOOD")
