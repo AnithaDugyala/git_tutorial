@@ -12,4 +12,8 @@ else:
 print("WELCOME")
 print([1,2,3])
 print((1,2,3))
+<<<<<<< HEAD
 print({1,2,3})
+=======
+print({1:'a',2:'b'})
+>>>>>>> main1
