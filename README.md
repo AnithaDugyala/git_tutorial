@@ -2,3 +2,4 @@
 Tutorial for GIT
 ......ALL ABOUT GIT
  GITHUB
+ Commands
