@@ -18,4 +18,8 @@ print({1,2,3})
 print({1:'a',2:'b'})
 >>>>>>> main1
 print("Data structures in python")
+<<<<<<< HEAD
 print('list,tuple,set,dict')
+=======
+print('list,tuples,set,dictionary')
+>>>>>>> origin/main1
