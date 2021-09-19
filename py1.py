@@ -9,3 +9,4 @@ if(i==1):
     print("HOW ARE YOU ?")
 else:
     print("GOOD")
+print("WELCOME")
