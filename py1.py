@@ -18,4 +18,4 @@ print({1,2,3})
 print({1:'a',2:'b'})
 >>>>>>> main1
 print("Data structures in python")
-print("list,tuples,set,dictionary")
+print('list,tuples,set,dictionary')
